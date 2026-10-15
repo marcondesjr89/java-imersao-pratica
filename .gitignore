@@ -32,5 +32,8 @@ target/
 .DS_Store
 Thumbs.db
 
-### Instrucoes do Agente ###
+### Instrucoes do Agente e Arquivos Locais ###
 AGENTS*
+.local-project/
+.agents/
+.m2/
